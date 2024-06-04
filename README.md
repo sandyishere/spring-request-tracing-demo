@@ -9,12 +9,12 @@ java -jar zipkin.jar
 
 open browser at http://localhost:9411/
 
-other useful api urls:
-http://localhost:9411/zipkin/api/v2/traces
-http://localhost:9411/zipkin/api/v2/services
-http://localhost:9411/zipkin/api/v2/spans?serviceName=demo
+## Other useful api urls:
+- http://localhost:9411/zipkin/api/v2/traces
+- http://localhost:9411/zipkin/api/v2/services
+- http://localhost:9411/zipkin/api/v2/spans?serviceName=demo
 
-api reference: https://github.com/openzipkin/zipkin-api/blob/master/zipkin2-api.yaml
+reference: https://github.com/openzipkin/zipkin-api/blob/master/zipkin2-api.yaml
 
 # Run both webservers
 
