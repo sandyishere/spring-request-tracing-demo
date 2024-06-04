@@ -1,3 +1,7 @@
+# Spring request tracing demo
+
+A simple demo to demonstrate request tracing using micrometer and zipkin.
+
 # To run Zipkin locally
 
 reference: https://zipkin.io/pages/quickstart
